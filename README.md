@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @NikooEskandari
-- 🌱 I’m currently learning React/Angular
-- 💞️ I’m looking to collaborate on any role/project that adds value to my career
 - 📫 How to reach me: ni.eskandari@gmail.com
 
 <!---
